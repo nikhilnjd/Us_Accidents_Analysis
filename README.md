@@ -1,0 +1,3 @@
+- This contains an extensive EDA on kaggale dataset containing accidents data in US.
+- Chose around file columns and focused on finding usefull insights out of it.
+- Answered few question which helped to get findings.
